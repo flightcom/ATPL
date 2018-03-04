@@ -10,7 +10,10 @@ Ce dernier vaut :
 
 La nouvelle vitesse de décrochage est donc en fonction de l'ancienne: 
 
-$V_s' = V_s * \sqrt\frac{1}{\cos (\text{inclinaison}))}$
+![equation](http://www.sciweavers.org/tex2img.php?eq=$V_s'=V_s*\sqrt{\frac{1}{\cos(\text{inclinaison}))}}$&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
+$V_s' = V_s * \sqrt{\frac{1}{\cos (\text{inclinaison}))}}$
+
 
 
 ### Passage du subsonique au supersonique

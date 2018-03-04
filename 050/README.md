@@ -1,5 +1,4 @@
 # 050 - Météorologie
----
 
 
 ## Gradient
@@ -10,3 +9,7 @@ Le gradient est :
 - De +1°/km dans la partie supérieure de la stratosphère entre 20 et 50 km : on parle d’inversion de température.
 - Négatif dans la mésosphère.
 - Positif dans la thermosphère.
+
+## Nuages
+
+![Types de nuages](./data/clouds.png)
