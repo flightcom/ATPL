@@ -39,7 +39,13 @@ L'apparition de vitesses soniques est néfaste. Elles apparaîtront d'autant plu
 ### Théorème de Bernoulli
 
 Le théorème de Bernoulli énonce que la somme de la pression statique et de la pression dynamique, soit la pression totale, est constante dans un écoulement de fluide subsonique incompressible.
-PSTAT + PDYN = PTOT = constante avec PDYN = (1/2)*rho*TAS².
+
+$$P_\text{STAT} + P_\text{DYN} = P_\text{TOT} = constante$$
+
+avec 
+
+$P_\text{DYN} = \frac{1}{2}*\rho*V_\text{TAS}^2$
+
 
 
 ### Volets de bord d'attaque
