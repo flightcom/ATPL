@@ -10,10 +10,7 @@ Ce dernier vaut :
 
 La nouvelle vitesse de décrochage est donc en fonction de l'ancienne: 
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=$V_s'=V_s*\sqrt{\frac{1}{\cos(\text{inclinaison}))}}$&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
-
-$V_s' = V_s * \sqrt{\frac{1}{\cos (\text{inclinaison}))}}$
-
+![equation](http://latex.codecogs.com/gif.latex?V_s'=V_s*\sqrt{\frac{1}{\cos(\text{inclinaison})}})
 
 
 ### Passage du subsonique au supersonique
@@ -43,11 +40,11 @@ L'apparition de vitesses soniques est néfaste. Elles apparaîtront d'autant plu
 
 Le théorème de Bernoulli énonce que la somme de la pression statique et de la pression dynamique, soit la pression totale, est constante dans un écoulement de fluide subsonique incompressible.
 
-$$P_\text{STAT} + P_\text{DYN} = P_\text{TOT} = constante$$
+![equation](http://latex.codecogs.com/gif.latex?P_\text{STAT}+P_\text{DYN}=P_\text{TOT}=\text{constante})
 
 avec 
 
-$P_\text{DYN} = \frac{1}{2}*\rho*V_\text{TAS}^2$
+![equation](http://latex.codecogs.com/gif.latex?P_\text{DYN}=\frac{1}{2}*\rho*V_\text{TAS}^2)
 
 
 
@@ -83,9 +80,16 @@ Le mécanisme de la traînée induite a été théorisé par Ludwig Prandtl (191
 - Les tourbillons marginaux
 - 
 
-$Rx_i = 1/2 * ρ * V^2 * S * Cx_i$
+![equation](http://latex.codecogs.com/gif.latex?Rx_i=1/2*\rho*V^2*S*Cx_i)
 
-avec $Cx_i = \frac{Cz^2}{\lambda\pi}$ et $\lambda = \frac{E^2}{S}$
+avec
+
+![equation](http://latex.codecogs.com/gif.latex?Cx_i=\frac{Cz^2}{\lambda\pi})
+
+et
+
+![equation](http://latex.codecogs.com/gif.latex?\lambda=\frac{E^2}{S})
+
 
 - coefficient de portance  Cz
 - allongement  λ
@@ -103,7 +107,8 @@ Comme toutes les forces aérodynamiques, la traînée induite dépendra:
 - Traînée d'interférence
 - Traînée de compressibilité
 
-$Rx_i = 1/2 * ρ * V^2 * S * Cx_i$
+![equation](http://latex.codecogs.com/gif.latex?Rx_i=\frac{1}{2}*\rho*V^2*S*Cx_i)
+
 
 Comme toutes les forces aérodynamiques, la traînée induite dépendra: 
 - de la pression dynamique 1/2 ρ V2
