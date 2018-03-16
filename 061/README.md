@@ -1,18 +1,18 @@
-# 061
+# 061 - Navigation Générale
 
-### Fuel Flow
+## Fuel Flow
 FF = Q / T 
 
 FF : Fuel Flow
 Q : Quantity
 T : Time
 
-### ICAO Chart symbols used in JAA examinations
+## ICAO Chart symbols used in JAA examinations
 
 ![ICAO Chart symbols used in JAA examinations](./data/CHARTSYMB1.JPG)
 
 
-### Consommation distance air :
+## Consommation distance air :
 
 Cd = Ch / Vp
 
@@ -21,7 +21,7 @@ Ch : Consommation horaire
 Vp : Vitesse propre
 
 
-### Cap Compas
+## Cap Compas
 
 Retrancher Votre Dérive, Cela Vous Donne Chaque Mesure du Cap Compas
 Rv – X = Cv ; Cv – Dm = Cm ; Cm – d = Cc.
@@ -38,6 +38,6 @@ X : Dérive
 
 
 
-### Distance Point équitemps
+## Distance Point équitemps
 
 Distance au PET = D x Vs retour / (Vs aller + Vs retour).

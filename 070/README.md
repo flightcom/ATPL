@@ -10,8 +10,17 @@ Catégorie III B : Une approche de précision aux instruments avec
 
 ### Visibilité
 
-Catégorie C : MDH 600 ft et visibilité 2 400 m.
+Catégorie A : MDH 400 ft et visibilité 1500 m.
+Catégorie B : MDH 500 ft et visibilité 1600 m.
+Catégorie C : MDH 600 ft et visibilité 2400 m.
+Catégorie D : MDH 700 ft et visibilité 3600 m.
 
+
+## Catégorie de poids
+
+H : 136 Tonnes < MMSD : Avions gros porteurs.
+M : 7 Tonnes < MMSD < 136 Tonnes : Avions de moyen tonnage.
+L : MMSD < 7 Tonnes : Avions de faible tonnage.
 
 
 ## SNOWTAM
@@ -28,6 +37,9 @@ Catégorie C : MDH 600 ft et visibilité 2 400 m.
   - 7 - GLACE
   - 8 - NEIGE COMPACTÉE
   - 9 - ORNIÈRES OU ARÊTES GELÉE
+
+- Partie J : Congères critiques. Indiquer leur hauteur éventuelle en centimètres et leur distance par rapport au bord de la piste en mètres, suivie des lettres « L » (gauche), « R » (droite) ou « LR » (des deux côtés), l'observation étant faite à partir du seuil qui porte le numéro d'identification de piste le plus faible.
+
 
 ## Position de sécurité
 ---
@@ -62,3 +74,8 @@ La position préférée le plus souvent par les compagnies et à l'examen égale
 ## Espace RVSM (Reduced Vertical Separation Minima)
 
 Séparation entre FL290 et 2000 ft : 1000 ft
+
+## Abréviations
+
+MDA : Minimum Descent Altitude
+MDH : Minimum Descent Height
