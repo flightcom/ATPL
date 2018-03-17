@@ -13,3 +13,19 @@ Le gradient est :
 ## Nuages
 
 ![Types de nuages](./data/clouds.png)
+
+
+## QFF vs QNH
+
+- If Tº = ISA => QNH = QFF
+
+- If above MSL 
+    - If Tº > ISA => QNH > QFF
+    - If Tº < ISA => QNH < QFF
+
+- If below MSL then this is reversed:
+    - If Tº > ISA => QNH < QFF
+    - If Tº < ISA => QNH > QFF
+
+
+## Abréviations
